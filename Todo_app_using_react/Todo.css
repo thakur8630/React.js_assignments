@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+    margin: 129px 47px 65px 145px;
+    
+}
+.container2{ 
+    margin: 43px 30px 21px 648px;
+
+}
+h1{
+    text-align: center;
+    margin: 34px 60px 0px 0px;
+    color: maroon;
+}
+h1:hover{
+    color: mediumblue;
+}
+.container button{
+    background-color:lightsalmon;
+    color: darkred;
+}
+.container button:hover{
+background-color:lightcyan;
+}
+.container input{
+    background-color: lightyellow;
+}
+.container2 button{
+    background-color: lightgreen;
+    color:darkblue;
+}
+.container2 button:hover{
+    background-color:lightcyan;
+}
+.container2 table th{
+    color:darkblue;
+}
+.container2 table td{
+    color: maroon;
+      font-size: larger;
+
+}
